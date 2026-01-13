@@ -312,9 +312,6 @@ src/
 
 MIT
 
-## Authors
-
-Friendly Society of Corvids
 
 ## Links
 
