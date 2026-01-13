@@ -312,8 +312,3 @@ src/
 
 MIT
 
-
-## Links
-
-- Repository: https://github.com/dollspace-gay/rookpkg
-- Homepage: https://github.com/dollspace-gay/rookpkg
