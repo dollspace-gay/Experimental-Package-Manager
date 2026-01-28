@@ -34,7 +34,7 @@ sha2 = "0.10"
 
 # Cryptographic signing (Ed25519 + ML-DSA post-quantum hybrid)
 ed25519-dalek = { version = "2", features = ["rand_core"] }
-ml-dsa = "0.1.0-rc.2"  # FIPS 204 post-quantum signatures (ML-DSA-65)
+ml-dsa = "0.1.0-rc.4"  # FIPS 204 post-quantum signatures (ML-DSA-65)
 rand = "0.8"
 
 # Secure memory handling
